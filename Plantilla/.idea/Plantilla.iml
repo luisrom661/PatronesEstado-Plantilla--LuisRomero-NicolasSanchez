@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Restaurant-Server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Restaurant-Server/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/RestauranteCliente/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RestauranteCliente/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/RestauranteCommons/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RestauranteCommons/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ServerSocketTemplate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ServerSocketTemplate/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TravelAgency-Client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TravelAgency-Client/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TravelAgency-commons/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TravelAgency-commons/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TravelAgency-Server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TravelAgency-Server/src/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

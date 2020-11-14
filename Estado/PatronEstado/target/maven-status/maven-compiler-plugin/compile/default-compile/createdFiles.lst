@@ -1,0 +1,11 @@
+co\unicauca\ordermanagement\domain\Dish.class
+co\unicauca\ordermanagement\domain\states\DeliveredState.class
+co\unicauca\ordermanagement\domain\states\OrderedState.class
+co\unicauca\ordermanagement\domain\states\LostState.class
+co\unicauca\ordermanagement\domain\states\OrderState.class
+co\unicauca\ordermanagement\domain\states\PayedState.class
+co\unicauca\ordermanagement\domain\Order.class
+co\unicauca\ordermanagement\domain\Item.class
+co\unicauca\ordermanagement\domain\states\CanceledState.class
+co\unicauca\ordermanagement\domain\states\OpenState.class
+co\unicauca\ordermanagement\domain\states\SendState.class

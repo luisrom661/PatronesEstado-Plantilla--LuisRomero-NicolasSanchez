@@ -1,0 +1,8 @@
+co\unicauca\domicilios\domain\Menu.class
+co\unicauca\domicilios\domain\Imagen.class
+co\unicauca\domicilios\infra\Parameter.class
+co\unicauca\domicilios\infra\Protocol.class
+co\unicauca\domicilios\domain\Restaurante.class
+co\unicauca\domicilios\infra\Utilities.class
+co\unicauca\domicilios\domain\Cliente.class
+co\unicauca\domicilios\infra\JsonError.class
